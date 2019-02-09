@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RepoFinder</string>
+    <string name="title_home">Open</string>
+    <string name="title_dashboard">Closed</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="enter_organization_name">enter organization name</string>
+    <string name="enter_repo_name">enter repo name</string>
+    <string name="search_organization_s_project">Search Organization\'s Project</string>
+</resources>
